@@ -1,0 +1,27 @@
+{
+  "name": "giftshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-less": "latest",
+    "gulp-newer": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify-es": "latest",
+    "jquery": "latest",
+    "normalize.css": "^8.0.1"
+  },
+  "browserslist": "last 10 versions",
+  "description": ""
+}
